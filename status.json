@@ -1,17 +1,17 @@
 {
-  "code": "be",
+  "code": "en",
   "language": "Belarusian",
   "maintainers": ["quendimax"],
   "files": {
     "01-introduction": {
-      "1-introduction.asc": 100,
+      "1-introduction.asc": 0,
       "sections/about-version-control.asc": 0,
-      "sections/basics.asc": 0,
       "sections/command-line.asc": 0,
       "sections/first-time-setup.asc": 0,
       "sections/help.asc": 0,
       "sections/history.asc": 0,
-      "sections/installing.asc": 0
+      "sections/installing.asc": 0,
+      "sections/what-is-git.asc": 0
     },
     "02-git-basics": {
       "1-git-basics.asc": 0,
@@ -65,7 +65,6 @@
       "sections/credentials.asc": 0,
       "sections/debugging.asc": 0,
       "sections/interactive-staging.asc": 0,
-      "sections/notes.asc": 0,
       "sections/replace.asc": 0,
       "sections/rerere.asc": 0,
       "sections/reset.asc": 0,
@@ -89,12 +88,10 @@
       "sections/client-hg.asc": 0,
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,
-      "sections/client-tfs.asc": 0,
       "sections/import-custom.asc": 0,
       "sections/import-hg.asc": 0,
       "sections/import-p4.asc": 0,
-      "sections/import-svn.asc": 0,
-      "sections/import-tfs.asc": 0
+      "sections/import-svn.asc": 0
     },
     "10-git-internals": {
       "1-git-internals.asc": 0,
@@ -110,7 +107,6 @@
     "A-git-in-other-environments": {
       "1-git-other-environments.asc": 0,
       "sections/bash.asc": 0,
-      "sections/eclipse.asc": 0,
       "sections/guis.asc": 0,
       "sections/powershell.asc": 0,
       "sections/visualstudio.asc": 0,
