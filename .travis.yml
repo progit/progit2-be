@@ -1,5 +1,6 @@
 language: ruby
-sudo: false
+os: linux
+dist: bionic
 git:
   depth: false
 cache: bundler
@@ -19,7 +20,7 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
-  api-key: $GITHUB_API_TOKEN
+  token: $GITHUB_API_TOKEN
 branches:
   only:
   - master
