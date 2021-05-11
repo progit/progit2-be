@@ -6,7 +6,7 @@
     "01-introduction": {
       "ch01-getting-started.asc": 0,
       "sections/about-version-control.asc": 100,
-      "sections/command-line.asc": 0,
+      "sections/command-line.asc": 100,
       "sections/first-time-setup.asc": 0,
       "sections/help.asc": 0,
       "sections/history.asc": 0,
