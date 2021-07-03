@@ -4,7 +4,7 @@
   "maintainers": ["morganov"],
   "files": {
     "01-introduction": {
-      "ch01-getting-started.asc": 0,
+      "ch01-getting-started.asc": 100,
       "sections/about-version-control.asc": 100,
       "sections/command-line.asc": 100,
       "sections/first-time-setup.asc": 100,
