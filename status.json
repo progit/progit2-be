@@ -4,13 +4,13 @@
   "maintainers": ["morganov"],
   "files": {
     "01-introduction": {
-      "ch01-getting-started.asc": 0,
-      "sections/about-version-control.asc": 0,
-      "sections/command-line.asc": 0,
-      "sections/first-time-setup.asc": 0,
-      "sections/help.asc": 0,
-      "sections/history.asc": 0,
-      "sections/installing.asc": 0,
+      "ch01-getting-started.asc": 100,
+      "sections/about-version-control.asc": 100,
+      "sections/command-line.asc": 100,
+      "sections/first-time-setup.asc": 100,
+      "sections/help.asc": 100,
+      "sections/history.asc": 100,
+      "sections/installing.asc": 100,
       "sections/what-is-git.asc": 0
     },
     "02-git-basics": {
