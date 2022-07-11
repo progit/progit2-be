@@ -10,7 +10,7 @@
       "sections/first-time-setup.asc": 100,
       "sections/help.asc": 100,
       "sections/history.asc": 100,
-      "sections/installing.asc": 0,
+      "sections/installing.asc": 100,
       "sections/what-is-git.asc": 0
     },
     "02-git-basics": {
